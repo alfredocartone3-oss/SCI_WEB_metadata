@@ -1,4 +1,4 @@
-Metadata for SCI-WEB project operated within the GRINS dataframe at different scales:
+Metadata for SCI-WEB project operated within the GRINS dataframe at different scales over 11 well-being domain for the analysis of territorial well-being individuated by Benessere Equo & Sostenibile (BES). Metadata for data on AMELIA platform includes:
 
 52 variables at NUTS3 between 2014 and 2021
 25 variables at LAU level for 2018 and 2021
