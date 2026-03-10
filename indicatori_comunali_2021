@@ -9,8 +9,9 @@ Municipality
 ### Year 
 2021
 
-### Variables
-| **PRO_COM_T** | Integer | Official Italian municipality identifier code. |
+| Variable      | Type    | Description                                                                                                                                                                      |
+| ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *PRO_COM_T* | Integer | Official Italian municipality identifier code. 
 | **COMUNE** | String | Municipality name. |
 | **Base** | Numeric | Composite well-being indicator obtained using standard Principal Component Analysis (PCA) on municipal-level variables. |
 | **GWPCA** | Numeric | Composite indicator derived from Geographically Weighted PCA, allowing component weights to vary across space. |
