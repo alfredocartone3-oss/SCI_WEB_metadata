@@ -1,3 +1,14 @@
+## Dataset Metadata – Municipal Well-being Indicators
+
+### Description
+This dataset contains municipal-level composite indicators of well-being for Italian municipalities, constructed using different aggregation and spatial analysis methods.
+
+### Unit of observation
+Municipality
+
+### Year 
+2018
+
 | Variable      | Type    | Description                                                                                                                                                                      |
 | ------------- | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | *PRO_COM_T* | Integer | Official Italian municipality identifier code.                                                                                                                                   |
