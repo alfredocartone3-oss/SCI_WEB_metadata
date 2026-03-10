@@ -3,8 +3,8 @@
 | *PRO_COM_T* | Integer | Official Italian municipality identifier code.                                                                                                                                   |
 | *COMUNE*    | String  | Municipality name.                                                                                                                                                               |
 | *Base*      | Numeric | Composite well-being indicator obtained using standard Principal Component Analysis (PCA) on municipal-level variables.                                                          |
-| *GWPCA*     | Numeric | Composite indicator derived from Geographically Weighted PCA, allowing component weights to vary across space.                                                                   |
+| *Gwpca*     | Numeric | Composite indicator derived from Geographically Weighted PCA, allowing component weights to vary across space.                                                                   |
 | *Filtered*  | Numeric | Non-spatial component of the indicator obtained from the decomposition of variables using Getis spatial filtering.                                                               |
 | *Spatial*   | Numeric | Spatial component extracted through Getis filtering, capturing spatially structured variation in well-being.                                                                     |
-| *MPI*       | Numeric | Composite indicator calculated using the Mazziotta–Pareto non-compensatory aggregation method.                                                                                   |
+| *Mpi*       | Numeric | Composite indicator calculated using the Mazziotta–Pareto non-compensatory aggregation method.                                                                                   |
 | *Inner*     | Numeric | Composite indicator derived from cluster-wise PCA, allowing weights to differ between inner and central municipalities according to the Strategia Nazionale Aree Intern classification of inner areas. |
