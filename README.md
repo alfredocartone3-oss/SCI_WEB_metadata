@@ -2,3 +2,5 @@ Metadata for SCI-WEB project operated within the GRINS dataframe at different sc
 
 52 variables at NUTS3 between 2014 and 2021
 25 variables at LAU level for 2018 and 2021
+
+All metadata for the SCI-WEB datasets in the Report Deliverable_2.1_SCI-WEB_final-2!
