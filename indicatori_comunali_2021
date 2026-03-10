@@ -1,0 +1,24 @@
+## Dataset Metadata – Municipal Well-being Indicators
+
+### Description
+This dataset contains municipal-level composite indicators of well-being for Italian municipalities, constructed using different aggregation and spatial analysis methods. The indicators allow comparison of well-being estimates obtained through standard multivariate techniques, spatially adaptive methods, non-compensatory aggregation approaches, and cluster-specific PCA strategies.
+
+### Unit of observation
+Municipality
+
+### Year 
+2021
+
+### Variables
+
+| Variable | Type | Description |
+|---|---|---|
+| **PRO_COM_T** | Integer | Official Italian municipality identifier code. |
+| **COMUNE** | String | Municipality name. |
+| **Base** | Numeric | Composite well-being indicator obtained using standard Principal Component Analysis (PCA) on municipal-level variables. |
+| **GWPCA** | Numeric | Composite indicator derived from Geographically Weighted PCA, allowing component weights to vary across space. |
+| **Filtered** | Numeric | Non-spatial component of the indicator obtained from the decomposition of variables using Getis spatial filtering. |
+| **Spatial** | Numeric | Spatial component extracted through Getis filtering, capturing spatially structured variation in well-being. |
+| **MPI** | Numeric | Composite indicator calculated using the Mazziotta–Pareto non-compensatory aggregation method. |
+| **Inner** | Numeric | Composite indicator derived from cluster-wise PCA, allowing weights to differ between inner and central municipalities according to the SNAI/SANI classification of inner areas. |
+| **Peripheral** | Numeric | Composite indicator obtained through cluster-wise PCA, where component weights vary across municipality clusters defined by the European Commission regional taxonomy for Cohesion Policy, distinguishing developed, transition, and less developed regions. |
