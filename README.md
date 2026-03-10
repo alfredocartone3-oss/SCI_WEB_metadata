@@ -4,6 +4,6 @@ Metadata for SCI-WEB project operated within the GRINS dataframe at different sc
 2) 25 variables at LAU/municipal level for 2018 and 2021;
 3) 4 well-being indicators at NUTS3/provincial level (indicatori_provinciali_sciweb);
 4) 5 well-being indicators at LAU/municipal for 2018 (indicatori_comunali_sciweb_2018);
-5) 5 well-being indicators at LAU/municipal for 2021 (indicatori_comunali_sciweb_2021).
+5) 6 well-being indicators at LAU/municipal for 2021 (indicatori_comunali_sciweb_2021).
 
 All metadata for the SCI-WEB datasets 1) and 2) are expanded in the Report Deliverable_2.1_SCI-WEB_final-2 attached here!
