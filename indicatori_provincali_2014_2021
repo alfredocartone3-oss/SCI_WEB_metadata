@@ -4,9 +4,6 @@
 This dataset contains provincial-level composite indicators of well-being for Italian NUTS3 regions over the period **2014–2021**.  
 The indicators are derived using different dimensionality-reduction and spatial analysis techniques in order to capture both structural and spatial components of territorial well-being.
 
-The dataset includes the original index and several alternative composite indicators obtained using spatially sensitive methods such as Geographically Weighted Principal Component Analysis (GWPCA) and spatial filtering.
-
-## Unit of observation
 NUTS3 regions (Italian provinces)
 
 ## Spatial coverage
